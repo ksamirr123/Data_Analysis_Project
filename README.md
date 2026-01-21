@@ -42,3 +42,14 @@ Ensured the data was clean and consistent with respect to data types, formats, a
 Created pivot tables based on the key business questions (KPIs).
 
 Combined all pivot tables into a single interactive dashboard and applied slicers to enable dynamic filtering and analysis.
+
+# Dashboard
+
+An interactive Excel dashboard was created by integrating multiple pivot tables and visualizations to analyze Vrinda Store’s sales performance for the year 2022.
+The dashboard provides a consolidated view of sales trends, customer demographics, order status, top-performing states, sales channels, and product categories.
+
+Dynamic slicers were applied to allow users to filter data by month, category, channel, and gender, enabling quick and effective decision-making.
+
+Dashboard & Excel File:
+<img width="1854" height="780" alt="Screenshot 2026-01-21 135244" src="https://github.com/user-attachments/assets/41e464af-1d15-4b09-b753-12672f1d7555" />
+
